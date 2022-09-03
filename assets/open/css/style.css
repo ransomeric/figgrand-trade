@@ -2956,7 +2956,7 @@ body:not(.top_panel_fixed) .top_panel_style_3.boxed_style .top_panel_middle {
     left: -2px;
     position: absolute;
     top: 1.45em;
-    color: #ffffff;
+    color:#ffffff;
 }
 
 .menu_main_nav>li.menu-item-has-children>a:after {}
@@ -9047,7 +9047,7 @@ footer.twitter_wrap .sc_section_overlay {
     left: 0;
     top: 0;
     height: 1px;
-    background: #323338;
+    background: #ffffff;
     position: absolute;
 }
 
@@ -9966,3 +9966,14 @@ h6 .wpb_text_column p {
     width: 270px;
     height: 199px;
 }
+
+#Arab{
+width: 600px;
+height: 248px;
+    
+}
+
+
+
+
+

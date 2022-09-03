@@ -684,6 +684,8 @@ Apple iPod Touch (5th generation)
 }
 
 @media (min-width: 778px) and (max-width: 959px) {
+
+
     .extra_class_margin {
         height: 0 !important;
         margin-top: -2em;
@@ -1379,9 +1381,13 @@ Samsung Galaxy
     .sc_recent_news_style_news-announce .cat_post_info {
         margin-bottom: 1.5em;
     }
+
+
+    
 }
 
 @media (min-width: 480px) and (max-width: 639px) {
+
     .sc_blogger.layout_classic_3.template_masonry .isotope_wrap .isotope_item_classic:last-child {
         display: none !important;
     }
@@ -1543,6 +1549,14 @@ Samsung Galaxy
         width: 100%;
         float: none;
     }
+
+
+    #Arab{
+        width: 10px;
+        height: 248px;
+    
+}
+
     /* Fullwide or Fullscreen with sidebar */
     .body_style_fullwide.sidebar_right .content,
     .body_style_fullscreen.sidebar_right .content {

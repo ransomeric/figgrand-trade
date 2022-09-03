@@ -53,7 +53,7 @@
 
 .plan.color-2 .plan-price,
 .plan.color-2 a.button {
-    background-color: #3acf87
+    background-color: #07664b
 }
 
 .plan.color-3 .plan-price,
@@ -63,12 +63,12 @@
 
 .plan.color-4 .plan-price,
 .plan.color-4 a.button {
-    background-color: #e54b81
+    background-color: #8f0692
 }
 
 .plan.color-5 .plan-price,
 .plan.color-5 a.button {
-    background-color: #a558a6
+    background-color: #078456
 }
 
 .plan-price .value {
@@ -158,7 +158,7 @@
 }
 
 .sc_testimonial_item {
-    background-color: #17c420;
+    background-color:#514e9f ;
     padding-top: 5px;
     color: white;
 }
